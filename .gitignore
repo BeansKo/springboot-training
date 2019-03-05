@@ -18,5 +18,5 @@
 *.project
 *.settings
 
-target/
+target
 STORAGE/
